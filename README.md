@@ -9,12 +9,6 @@ What it does:
 - Logs all operations in TempTerminator_Log.txt (created next to the EXE).
 - If the program crashes, a Crashlog.txt is created on your Desktop.
 
-How to use:
-1. Make sure all files (TempTerminatorBeta3.exe + required DLLs) are in the same folder.
-2. Double-click TempTerminatorBeta3.exe to start the cleanup.
-3. Follow on-screen instructions; press Enter when prompted.
-4. Check TempTerminator_Log.txt for a detailed record of deleted/skipped files and folders.
-
 Notes:
 - Files in use cannot be deleted and will be safely skipped.
 - No files outside the TEMP folder will be touched.
